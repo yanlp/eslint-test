@@ -1,1 +1,1 @@
-#eslint-config
+#eslint基础配置说明
