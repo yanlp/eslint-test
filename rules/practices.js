@@ -3,7 +3,7 @@ module.exports = {
     // 强制在对象中使用getter/setter
     'accessor-pairs': 'off',
 
-    // 强制在数组方法的回调中执行return
+    // 对于数据相关操作函数比如reduce, map, filter等，callback必须有return
     // http://eslint.org/docs/rules/array-callback-return
     'array-callback-return': 'error',
 

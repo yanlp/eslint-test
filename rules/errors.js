@@ -81,8 +81,8 @@ module.exports = {
     // 禁用稀疏数组
     'no-sparse-arrays': 'error',
 
-    // 禁止在模板中使用不同的符号
-    'no-template-curly-in-string': 'error',
+    // warn; 在字符串里面出现{和}进行警告
+    'no-template-curly-in-string': 1,
 
     // 禁止多行表达式
     'no-unexpected-multiline': 'error',
@@ -99,7 +99,7 @@ module.exports = {
     // 禁止比较时使用NaN，只能用isNaN()
     'use-isnan': 'error',
 
-    // 强制使用有效的 JSDoc 注释
+    // off 强制使用有效的 JSDoc 注释
     'valid-jsdoc': 'off',
 
     // 强制使用有效的 JSDoc 注释

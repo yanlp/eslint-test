@@ -96,8 +96,8 @@ module.exports = {
       avoidQuotes: true,
     }],
 
-    // 	需要箭头功能作为回调
-    'prefer-arrow-callback': ['error', {
+    // off; 必须使用箭头函数作为回调，不采纳
+    'prefer-arrow-callback': ['off', {
       allowNamedFunctions: false,
       allowUnboundThis: true,
     }],
