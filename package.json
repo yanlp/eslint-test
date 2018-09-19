@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lky",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "eslint基础配置测试",
   "main": "index.js",
   "scripts": {

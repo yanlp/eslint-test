@@ -84,7 +84,7 @@ module.exports = {
     'id-match': 'off',
 
     // 强制统一的缩进
-    indent: ['error', 2, {
+    indent: ['error', 'tab', {
       SwitchCase: 1,
       VariableDeclarator: 1,
       outerIIFEBody: 1,

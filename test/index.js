@@ -1,3 +1,5 @@
+import './index';
+
 let a = 1; // 禁用var
 
 const b = 1; // const 代替 let
