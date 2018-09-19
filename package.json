@@ -1,0 +1,31 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "eslint基础配置测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanlp/eslint-test.git"
+  },
+  "devDependencies": {
+    "eslint": "^4.2.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.0",
+    "eslint-plugin-react": "^7.1.0"
+  },
+  "peerDependencies": {
+    "eslint": "^4.2.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.0",
+    "eslint-plugin-react": "^7.1.0"
+  },
+  "author": "yanlp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanlp/eslint-test/issues"
+  },
+  "homepage": "https://github.com/yanlp/eslint-test#readme"
+}
