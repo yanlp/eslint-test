@@ -23,4 +23,4 @@ Then, create a file named .eslintrc.* with the following contents in the root fo
 }
 ```
 
-Will ！ Do That, you can override the settings from eslint-config-lky by editing the .eslintrc.* file. learn more [https://eslint.org/docs/user-guide/configuring](https://eslint.org/docs/user-guide/configuring)
+Will ！ Do That, you can override the settings from eslint-config-lky by editing the .eslintrc.* file. learn more [configuring ESlint](https://eslint.org/docs/user-guide/configuring) on the esLint website.
